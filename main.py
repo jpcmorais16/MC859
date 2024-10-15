@@ -1,89 +1,39 @@
-import networkx as nx
-import matplotlib.pyplot as plt
-import random
-from collections import Counter
+import multiprocessing
+import os
+import numpy as np
+import random_walk as rw
 
+def run_simulation(filename, prob_start, prob_end):
+    for probability_step_length_one in np.arange(prob_start, prob_end, 0.1):   
+        for n_nodes in range(1000, 101001, 10000):
+            for n_marked in range(2, 33, 5):
+                for n_random_edges in range(0, 6):
+                    for decay_coefficient in np.arange(.0, 3.1, .5):
+                        rw.create_point(filename, probability_step_length_one=probability_step_length_one,
+                                        n_nodes=n_nodes, n_marked=n_marked, n_random_edges=n_random_edges, decay_coefficient=decay_coefficient)
 
-def assign_value(p):
-    outcomes = [1, 2]
-    probabilities = [p, 1 - p]
+if __name__ == "__main__":
+    # Define the range for each process (from 0.1 to 1.0, split into 10 equal parts)
+    ranges = [
+        ('file1.txt', 0.1, 0.2),
+        ('file2.txt', 0.2, 0.3),
+        ('file3.txt', 0.3, 0.4),
+        ('file4.txt', 0.4, 0.5),
+        ('file5.txt', 0.5, 0.6),
+        ('file6.txt', 0.6, 0.7),
+        ('file7.txt', 0.7, 0.8),
+        ('file8.txt', 0.8, 0.9),
+        ('file9.txt', 0.9, 1.0),
+        ('file10.txt', 0, 0.1)
+    ]
 
-    x = random.choices(outcomes, probabilities)[0]
-    return x
+    # Create and start processes
+    processes = []
+    for filename, prob_start, prob_end in ranges:
+        pr = multiprocessing.Process(target=run_simulation, args=(filename, prob_start, prob_end))
+        pr.start()
+        processes.append(pr)
 
-
-def random_steps(graph: nx.Graph, start: int, step_size: int) -> int:
-
-    current = start
-
-    for _ in range(step_size):
-        neighbors = list(graph.neighbors(current))
-        if len(neighbors) > 0:
-            current = neighbors[random.randint(0, len(neighbors)-1)]
-
-    return current
-
-
-def random_walk_sequence(graph: nx.Graph, number_of_nodes: int, probability: float, n_marked: int) -> nx.Graph:
-    
-    nodes = graph.number_of_nodes()
-
-    for _ in range(0, number_of_nodes):
-        
-        start = random.randint(1, nodes-1)
-        current = start
-
-        graph.add_node(nodes)
-    
-        marked = [start]
-
-        step_size = assign_value(probability)
-
-        for _ in range(n_marked - 1): 
-            current = random_steps(graph, current, step_size)
-
-            marked.append(current)
-
-
-        for v in marked:
-            graph.add_edge(v, nodes)
-
-        nodes += 1
-
-    
-    return graph
-
-
-
-x = []
-y = []
-z = []
-w = []
-
-for i in range(10):
-    m = i / 10
-
-    print(i)
-
-    G = nx.Graph()
-
-    G.add_nodes_from([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
-
-    G.add_edges_from([(1, 2), (2, 3), (3, 4), (4, 5), (5, 6), (6, 7), (7, 8), (8, 9), (9, 10), (10, 1)])
-
-    G = random_walk_sequence(G, 4000, m, 2)
-
-    
-    x.append(m)
-    y.append(nx.average_clustering(G))
-    z.append(nx.transitivity(G))
-    w.append(nx.average_shortest_path_length(G))
-
-print(y)
-print(z)
-plt.plot(x, y)
-plt.show()
-
-plt.plot(x, z)
-plt.show()
-
+    # Wait for all child processes to finish
+    for pr in processes:
+        pr.join()

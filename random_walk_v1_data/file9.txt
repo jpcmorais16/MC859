@@ -1,0 +1,729 @@
+ 
+0.9 3 2 2 2
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 2
+edges_added_per_walk_per_top_node: 2
+average clustering: 0.3475207209455028
+transitivity: 0.5324748407483038
+average shortest path length: 4.887769785063238
+number of edges: 24098
+power-law exponent: 2.63952362034923
+KS: 0.1131777881015797
+
+
+0.9 3 2 4 2
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 4
+edges_added_per_walk_per_top_node: 2
+average clustering: 0.28463325391512945
+transitivity: 0.5232617161776454
+average shortest path length: 4.3257193752560905
+number of edges: 28150
+power-law exponent: 2.616685196740329
+KS: 0.0926690484887145
+
+
+0.9 3 2 6 2
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 6
+edges_added_per_walk_per_top_node: 2
+average clustering: 0.2652657685465113
+transitivity: 0.4159916230251277
+average shortest path length: 3.9372832280498478
+number of edges: 32193
+power-law exponent: 2.6792811893120265
+KS: 0.09150424818652536
+
+
+0.9 3 2 8 2
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 8
+edges_added_per_walk_per_top_node: 2
+average clustering: 0.22741968279993263
+transitivity: 0.44164250538647376
+average shortest path length: 3.693036311351924
+number of edges: 36230
+power-law exponent: 2.111357487961424
+KS: 0.12255579787616933
+
+
+0.9 3 2 10 2
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 10
+edges_added_per_walk_per_top_node: 2
+average clustering: 0.1995415932476892
+transitivity: 0.3634017766462094
+average shortest path length: 3.500716497136116
+number of edges: 40274
+power-law exponent: 2.7973070892449177
+KS: 0.09222759740765718
+
+
+0.9 3 2 12 2
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 12
+edges_added_per_walk_per_top_node: 2
+average clustering: 0.20761585819752468
+transitivity: 0.32490758821991517
+average shortest path length: 3.3809584820361986
+number of edges: 44312
+power-law exponent: 2.763192191383914
+KS: 0.07598796978664113
+
+
+0.9 3 2 14 2
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 14
+edges_added_per_walk_per_top_node: 2
+average clustering: 0.17583225664106833
+transitivity: 0.30966629767200854
+average shortest path length: 3.2490223676343337
+number of edges: 48338
+power-law exponent: 2.866022581529851
+KS: 0.09686255968599267
+
+
+0.9 3 2 16 2
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 16
+edges_added_per_walk_per_top_node: 2
+average clustering: 0.18970268544101707
+transitivity: 0.2727231245691873
+average shortest path length: 3.228501310318277
+number of edges: 52399
+power-law exponent: 2.6189927151670718
+KS: 0.06543108120093344
+
+
+0.9 3 2 18 2
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 18
+edges_added_per_walk_per_top_node: 2
+average clustering: 0.1944505064531175
+transitivity: 0.240263333973962
+average shortest path length: 3.15729402254713
+number of edges: 56431
+power-law exponent: 2.80638872405716
+KS: 0.08198038450598888
+
+
+0.9 3 2 2 3
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 2
+edges_added_per_walk_per_top_node: 3
+average clustering: 0.3654121846976771
+transitivity: 0.4940826607129389
+average shortest path length: 4.698147233476806
+number of edges: 30158
+power-law exponent: 2.6763632861122604
+KS: 0.1098826454797287
+
+
+0.9 3 2 4 3
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 4
+edges_added_per_walk_per_top_node: 3
+average clustering: 0.3269006655084707
+transitivity: 0.4744953702789945
+average shortest path length: 4.238857095463216
+number of edges: 34195
+power-law exponent: 2.653385670429609
+KS: 0.12915438159205717
+
+
+0.9 3 2 6 3
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 6
+edges_added_per_walk_per_top_node: 3
+average clustering: 0.2887383642893239
+transitivity: 0.48522268714685024
+average shortest path length: 3.910774814655263
+number of edges: 38251
+power-law exponent: 2.71818106009795
+KS: 0.08376337846882054
+
+
+0.9 3 2 8 3
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 8
+edges_added_per_walk_per_top_node: 3
+average clustering: 0.2779000169761312
+transitivity: 0.4019489622361555
+average shortest path length: 3.693256410161187
+number of edges: 42285
+power-law exponent: 2.107834990905923
+KS: 0.13492798691697716
+
+
+0.9 3 2 10 3
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 10
+edges_added_per_walk_per_top_node: 3
+average clustering: 0.23534168885961143
+transitivity: 0.4078009929428961
+average shortest path length: 3.4936120591370097
+number of edges: 46336
+power-law exponent: 2.7034960828854437
+KS: 0.09855301841254638
+
+
+0.9 3 2 12 3
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 12
+edges_added_per_walk_per_top_node: 3
+average clustering: 0.2242016469152331
+transitivity: 0.41450829638055164
+average shortest path length: 3.358044933332838
+number of edges: 50360
+power-law exponent: 2.7886616155490245
+KS: 0.07206924486173932
+
+
+0.9 3 2 14 3
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 14
+edges_added_per_walk_per_top_node: 3
+average clustering: 0.25507639738294796
+transitivity: 0.34680838293359495
+average shortest path length: 3.3401769455781554
+number of edges: 54416
+power-law exponent: 2.7415726539066387
+KS: 0.09500682861773713
+
+
+0.9 3 2 16 3
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 16
+edges_added_per_walk_per_top_node: 3
+average clustering: 0.22026414057329724
+transitivity: 0.327415500823698
+average shortest path length: 3.2152338580795945
+number of edges: 58463
+power-law exponent: 2.7909998369225617
+KS: 0.0767079282844143
+
+
+0.9 3 2 18 3
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 18
+edges_added_per_walk_per_top_node: 3
+average clustering: 0.23993014273216043
+transitivity: 0.2855095661387663
+average shortest path length: 3.1722837665368107
+number of edges: 62501
+power-law exponent: 2.8109645039067006
+KS: 0.09272026878346873
+
+
+0.9 3 2 2 4
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 2
+edges_added_per_walk_per_top_node: 4
+average clustering: 0.3722305002448617
+transitivity: 0.6491464607690705
+average shortest path length: 4.771815220983909
+number of edges: 36200
+power-law exponent: 2.172665683821496
+KS: 0.13167488495609203
+
+
+0.9 3 2 4 4
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 4
+edges_added_per_walk_per_top_node: 4
+average clustering: 0.3289315472246868
+transitivity: 0.5938463768499371
+average shortest path length: 4.269273810098549
+number of edges: 40274
+power-law exponent: 2.7207874395030727
+KS: 0.1412029874920835
+
+
+0.9 3 2 6 4
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 6
+edges_added_per_walk_per_top_node: 4
+average clustering: 0.293540582806426
+transitivity: 0.5894344561866004
+average shortest path length: 3.884439088459172
+number of edges: 44299
+power-law exponent: 18.28612182169716
+KS: 0.1239076629399436
+
+
+0.9 3 2 8 4
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 8
+edges_added_per_walk_per_top_node: 4
+average clustering: 0.3042815206893389
+transitivity: 0.4190924499656436
+average shortest path length: 3.653698910275693
+number of edges: 48346
+power-law exponent: 2.610670879808943
+KS: 0.08366869456258978
+
+
+0.9 3 2 10 4
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 10
+edges_added_per_walk_per_top_node: 4
+average clustering: 0.29442543072966926
+transitivity: 0.4254312527890562
+average shortest path length: 3.520455572349747
+number of edges: 52380
+power-law exponent: 2.645409967943884
+KS: 0.09511473027916928
+
+
+0.9 3 2 12 4
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 12
+edges_added_per_walk_per_top_node: 4
+average clustering: 0.2646045032176711
+transitivity: 0.3925991937470025
+average shortest path length: 3.3638435094990338
+number of edges: 56419
+power-law exponent: 2.662714102930634
+KS: 0.08133357531403976
+
+
+0.9 3 2 14 4
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 14
+edges_added_per_walk_per_top_node: 4
+average clustering: 0.21389394833499634
+transitivity: 0.4309633930864851
+average shortest path length: 3.2700083805902063
+number of edges: 60484
+power-law exponent: 8.484812279683231
+KS: 0.10045269206396357
+
+
+0.9 3 2 16 4
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 16
+edges_added_per_walk_per_top_node: 4
+average clustering: 0.2665465543461714
+transitivity: 0.3545982332710729
+average shortest path length: 3.258636773831762
+number of edges: 64515
+power-law exponent: 2.2872634268101244
+KS: 0.09003644904961194
+
+
+0.9 3 2 18 4
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 18
+edges_added_per_walk_per_top_node: 4
+average clustering: 0.2505544002320136
+transitivity: 0.30417993652177217
+average shortest path length: 3.1672322636630237
+number of edges: 68540
+power-law exponent: 2.598353834821058
+KS: 0.06338502003174296
+
+
+0.9 3 2 2 5
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 2
+edges_added_per_walk_per_top_node: 5
+average clustering: 0.39014281888901736
+transitivity: 0.6025101291863745
+average shortest path length: 4.703707761268304
+number of edges: 42277
+power-law exponent: 2.075117030609605
+KS: 0.13376089143592285
+
+
+0.9 3 2 4 5
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 4
+edges_added_per_walk_per_top_node: 5
+average clustering: 0.34619495461108163
+transitivity: 0.5376533841080774
+average shortest path length: 4.216292758650143
+number of edges: 46330
+power-law exponent: 2.7164692625710174
+KS: 0.11747663344611292
+
+
+0.9 3 2 6 5
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 6
+edges_added_per_walk_per_top_node: 5
+average clustering: 0.32186766668431077
+transitivity: 0.548008938896312
+average shortest path length: 3.9045510194734216
+number of edges: 50362
+power-law exponent: 2.619173966482383
+KS: 0.10633742212155128
+
+
+0.9 3 2 8 5
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 8
+edges_added_per_walk_per_top_node: 5
+average clustering: 0.31781152119322514
+transitivity: 0.48863639015306787
+average shortest path length: 3.64778248592816
+number of edges: 54412
+power-law exponent: 2.6564904160083826
+KS: 0.09652316248320829
+
+
+0.9 3 2 10 5
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 10
+edges_added_per_walk_per_top_node: 5
+average clustering: 0.3084495086911536
+transitivity: 0.45035942001308216
+average shortest path length: 3.5518681783914468
+number of edges: 58437
+power-law exponent: 2.5781871115892985
+KS: 0.10524711998369995
+
+
+0.9 3 2 12 5
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 12
+edges_added_per_walk_per_top_node: 5
+average clustering: 0.29955035064366853
+transitivity: 0.44479589812957715
+average shortest path length: 3.389764910208846
+number of edges: 62491
+power-law exponent: 2.7450704263966816
+KS: 0.07965351229309825
+
+
+0.9 3 2 14 5
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 14
+edges_added_per_walk_per_top_node: 5
+average clustering: 0.2787629819104802
+transitivity: 0.4367722320371066
+average shortest path length: 3.319819662572928
+number of edges: 66537
+power-law exponent: 2.7494316764725535
+KS: 0.09618811812610073
+
+
+0.9 3 2 16 5
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 16
+edges_added_per_walk_per_top_node: 5
+average clustering: 0.25083572429772716
+transitivity: 0.3849158431114576
+average shortest path length: 3.202928997708645
+number of edges: 70570
+power-law exponent: 3.377197164468038
+KS: 0.08976670646826823
+
+
+0.9 3 2 18 5
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 18
+edges_added_per_walk_per_top_node: 5
+average clustering: 0.2551728429452335
+transitivity: 0.3664237807701235
+average shortest path length: 3.1608351623321562
+number of edges: 74628
+power-law exponent: 4.145044121831983
+KS: 0.08580664777509406
+
+
+0.9 3 2 2 6
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 2
+edges_added_per_walk_per_top_node: 6
+average clustering: 0.38785808463123267
+transitivity: 0.6303926714266469
+average shortest path length: 4.655141560176228
+number of edges: 48329
+power-law exponent: 2.032278171581283
+KS: 0.13817070449184832
+
+
+0.9 3 2 4 6
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 4
+edges_added_per_walk_per_top_node: 6
+average clustering: 0.3441524964830153
+transitivity: 0.5978452843518192
+average shortest path length: 4.174814902843335
+number of edges: 52390
+power-law exponent: 189.6900302693846
+KS: 0.11737134269772231
+
+
+0.9 3 2 6 6
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 6
+edges_added_per_walk_per_top_node: 6
+average clustering: 0.33145149965158344
+transitivity: 0.5864614121536128
+average shortest path length: 3.868295868257617
+number of edges: 56422
+power-law exponent: 2.655654379381739
+KS: 0.12214445967776
+
+
+0.9 3 2 8 6
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 8
+edges_added_per_walk_per_top_node: 6
+average clustering: 0.3180232731631342
+transitivity: 0.5228250389489099
+average shortest path length: 3.6314785861684364
+number of edges: 60466
+power-law exponent: 2.7480648333706656
+KS: 0.12011546006675362
+
+
+0.9 3 2 10 6
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 10
+edges_added_per_walk_per_top_node: 6
+average clustering: 0.3278544775585127
+transitivity: 0.48341651147823356
+average shortest path length: 3.517545266947175
+number of edges: 64506
+power-law exponent: 2.5800255655681736
+KS: 0.07022247710907703
+
+
+0.9 3 2 12 6
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 12
+edges_added_per_walk_per_top_node: 6
+average clustering: 0.299199334602409
+transitivity: 0.5281692517068013
+average shortest path length: 3.4236795618820555
+number of edges: 68550
+power-law exponent: 22.300518268898582
+KS: 0.08675233484088231
+
+
+0.9 3 2 14 6
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 14
+edges_added_per_walk_per_top_node: 6
+average clustering: 0.2834585582126082
+transitivity: 0.45658019983408016
+average shortest path length: 3.324556862366446
+number of edges: 72591
+power-law exponent: 4.694971570370254
+KS: 0.09416527317522494
+
+
+0.9 3 2 16 6
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 16
+edges_added_per_walk_per_top_node: 6
+average clustering: 0.2772028675440931
+transitivity: 0.40105477771805237
+average shortest path length: 3.2033012345587317
+number of edges: 76635
+power-law exponent: 2.7554051531132973
+KS: 0.08235647488334685
+
+
+0.9 3 2 18 6
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 18
+edges_added_per_walk_per_top_node: 6
+average clustering: 0.2934155909641703
+transitivity: 0.37177705332049676
+average shortest path length: 3.173382775101848
+number of edges: 80684
+power-law exponent: 2.7170881455158202
+KS: 0.0763722782050339
+
+
+0.9 3 2 2 7
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 2
+edges_added_per_walk_per_top_node: 7
+average clustering: 0.4135522076479102
+transitivity: 0.5876407331198867
+average shortest path length: 4.621214034331948
+number of edges: 54379
+power-law exponent: 2.6453832002167275
+KS: 0.11507999567306981
+
+
+0.9 3 2 4 7
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 4
+edges_added_per_walk_per_top_node: 7
+average clustering: 0.3708415257851533
+transitivity: 0.5084285326587342
+average shortest path length: 4.091610620695973
+number of edges: 58425
+power-law exponent: 2.6270546598571913
+KS: 0.10480124171183111
+
+
+0.9 3 2 6 7
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 6
+edges_added_per_walk_per_top_node: 7
+average clustering: 0.38762868134033085
+transitivity: 0.4504390421577825
+average shortest path length: 3.8675072014894427
+number of edges: 62492
+power-law exponent: 2.4432337246363622
+KS: 0.061819625171495196
+
+
+0.9 3 2 8 7
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 8
+edges_added_per_walk_per_top_node: 7
+average clustering: 0.3245065984911436
+transitivity: 0.4916315200276087
+average shortest path length: 3.5976731173691134
+number of edges: 66526
+power-law exponent: 2.728600981096238
+KS: 0.08810433107235416
+
+
+0.9 3 2 10 7
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 10
+edges_added_per_walk_per_top_node: 7
+average clustering: 0.3218373081370029
+transitivity: 0.48934065547866595
+average shortest path length: 3.503023697140077
+number of edges: 70568
+power-law exponent: 2.7648163651225834
+KS: 0.10143607801735299
+
+
+0.9 3 2 12 7
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 12
+edges_added_per_walk_per_top_node: 7
+average clustering: 0.31604614958493726
+transitivity: 0.48514349980800914
+average shortest path length: 3.3829648720814935
+number of edges: 74602
+power-law exponent: 11.639307027010773
+KS: 0.09698858705401436
+
+
+0.9 3 2 14 7
+probability_step_length_one: 0.9
+max_top_nodes: 3
+n_marked: 2
+distant edges: 14
+edges_added_per_walk_per_top_node: 7
+average clustering: 0.3031315627822249
+transitivity: 0.4659895059011559
+average shortest path length: 3.301113120637172
+number of edges: 78652
+power-law exponent: 4.523865193780379
+KS: 0.07576826252857505
+
+

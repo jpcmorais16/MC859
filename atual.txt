@@ -1,0 +1,8 @@
+ranges de interesse:
+
+n_marked entre 2 e 7
+n_random_edges entre 0 e 1
+
+
+random edges derrubam muito a average shortest length distance
+o aumento de gama parece aumentar todos os coeficientes, a escolha de um gama qualquer pode ser feita, e adaptamos os outros coeficientes

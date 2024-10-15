@@ -1,0 +1,45 @@
+1 10000 5 1 2
+probability_step_length_one: 1
+n_marked: 5
+n nodes: 10000
+n random edges: 1
+decay coefficient: 2
+average clustering: 0.3586861899524956
+transitivity: 0.0636854461719426
+average shortest path length: 3.8454051493515977
+number of edges: 76474
+power-law exponent: 2.7685997806920994
+r coefficient: -0.8112950766969613
+KS: 0.058919945643002875
+
+
+1 20000 5 1 2
+probability_step_length_one: 1
+n_marked: 5
+n nodes: 20000
+n random edges: 1
+decay coefficient: 2
+average clustering: 0.3582702067116085
+transitivity: 0.05225271595073054
+average shortest path length: 4.330117429165871
+number of edges: 152598
+power-law exponent: 2.797294769083246
+r coefficient: -0.8044770490844786
+KS: 0.05543174068683332
+
+
+1 50000 5 1 2
+probability_step_length_one: 1
+n_marked: 5
+n nodes: 50000
+n random edges: 1
+decay coefficient: 2
+average clustering: 0.33815722789050284
+transitivity: 0.04350824095753828
+average shortest path length: 4.423044599822462
+number of edges: 381790
+power-law exponent: 3.030916155731758
+r coefficient: -0.8136007364403137
+KS: 0.05424055112147319
+
+
